@@ -1,2 +1,11 @@
-# Machine-learning
-Prediction of diabetes mellitus by machine learning.
+# 项目简介
+本项目首先运用可视化技术对糖尿病数据集进行初步的探索与分析，以直观地了解数据的分布与特征。接着，采用斯皮尔曼相关性检验深入挖掘影响糖尿病发病的各类因素，探究各因素与糖尿病之间的关联程度。随后，构建 逻辑回归模型、随机森林模型和XGBoost模型，通过对比各个模型在预测患病风险方面的性能表现，选取更为合适的模型，深度剖析模型中的重要特征，精准识别出影响糖尿病发病的关键因素，从而为糖尿病的早期干预和预防工作提供强有力的科学依据与决策支持，助力提升糖尿病防治工作的成效与水平。
+***
+# 复现说明
+***
+## 实现步骤
+1.下载数据集  
+数据来源：[Alt](URL "https://www.kaggle.com/datasets/rabieelkharoua/diabetes-health-dataset-analysis/data")
+
+## 运行环境
+## 使用包的版本
