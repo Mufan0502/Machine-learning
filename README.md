@@ -5,7 +5,7 @@
 ***
 ## 实现步骤
 1.下载数据集  
-数据来源：[Alt](URL "https://www.kaggle.com/datasets/rabieelkharoua/diabetes-health-dataset-analysis/data")
+数据来源：["糖尿病数据集"](https://www.kaggle.com/datasets/rabieelkharoua/diabetes-health-dataset-analysis/data "糖尿病数据集")
 
 ## 运行环境
 ## 使用包的版本
